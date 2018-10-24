@@ -1,0 +1,12 @@
+{
+    "name": "xNodeEditor",
+    "references": [
+        "xNode"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
